@@ -38,11 +38,27 @@ Text classification has numerous applications, such as sentiment analysis, Natur
 ## **Some Results of the Predictions**
 
 <p align="left">
-    <img src="images/lstm_bbc/bbc_prediction.png" style="width: 1000px;"> 
-    <img src="images/lstm_imdb/imdb_prediction.png" style="width: 1000px;"> 
-    <img src="images/lstm_twitter/tweet_prediction.png" style="width: 800px;"> 
-    <img src="images/lstm_sarcasm/sarcasm_prediction.png" style="width: 350px;"> 
-    <img src="images/bert_quora/quora_prediction.png" style="width: 1000px;"> 
+<img src="images/lstm_bbc/bbc_prediction.png" style="width: 1000px;"> 
+</p>
+
+---
+<p align="left">
+<img src="images/lstm_imdb/imdb_prediction.png" style="width: 1000px;"> 
+</p>
+
+---
+<p align="left">
+<img src="images/lstm_twitter/tweet_prediction.png" style="width: 800px;"> 
+</p>
+
+---
+<p align="left">
+<img src="images/lstm_sarcasm/sarcasm_prediction.png" style="width: 350px;"> 
+</p>
+
+---
+<p align="left">
+<img src="images/bert_quora/quora_prediction.png" style="width: 1000px;"> 
 </p>
 
 #### *Further results from the predictions and word embeddings can be found in their respective notebooks.*
